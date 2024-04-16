@@ -23686,7 +23686,7 @@ table.Win5_Table:nth-child(n+3) th {
 }
 
 #All_Result_Table .Name {
-  min-width: 237px;
+  min-width: 200px;
   max-width: 280px;
   white-space: unset;
 }
@@ -23697,8 +23697,7 @@ table.Win5_Table:nth-child(n+3) th {
   font-weight: bold;
 }
 #All_Result_Table .Type {
-  min-width: 237px;
-  max-width: 280px;
+  width: 65px;
   white-space: unset;
 }
 
@@ -23709,8 +23708,7 @@ table.Win5_Table:nth-child(n+3) th {
 }
 }
 #All_Result_Table .Player {
-  min-width: 237px;
-  max-width: 280px;
+  width: 65px;
   white-space: unset;
 }
 
@@ -23721,8 +23719,6 @@ table.Win5_Table:nth-child(n+3) th {
 }
 }
 #All_Result_Table .Time {
-  min-width: 237px;
-  max-width: 280px;
   white-space: unset;
 }
 
@@ -23733,8 +23729,7 @@ table.Win5_Table:nth-child(n+3) th {
 }
 }
 #All_Result_Table .Difficulty {
-  min-width: 237px;
-  max-width: 280px;
+  width: 65px;
   white-space: unset;
 }
 
