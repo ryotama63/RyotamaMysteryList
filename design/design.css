@@ -23686,8 +23686,7 @@ table.Win5_Table:nth-child(n+3) th {
 }
 
 #All_Result_Table .Name {
-  min-width: 102px;
-  max-width: 115px;
+  width: 102;
   white-space: unset;
 }
 
