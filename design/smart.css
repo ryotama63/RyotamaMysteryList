@@ -98,3 +98,6 @@ body{
   /*元の位置に戻す*/
   transform: translateY(0);
 }
+.img {
+  width: 916px;
+}
