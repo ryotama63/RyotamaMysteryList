@@ -3,7 +3,7 @@ body{
   background-color: #fff;
 }
 .inner{
-  max-width: 1200px;
+  max-width: 960px;
   width: 100%;
   margin-right: auto;
   margin-left: auto;
@@ -97,7 +97,4 @@ body{
   visibility: visible;
   /*元の位置に戻す*/
   transform: translateY(0);
-}
-.img {
-  width: 960px;
 }
