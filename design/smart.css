@@ -91,7 +91,7 @@ body{
   transform: translateY(150px);
 }
 .flavor-text{
-  font-size: 84px;
+  font-size: 80px;
 }
 .is-active {
   /*要素を表示させる*/
