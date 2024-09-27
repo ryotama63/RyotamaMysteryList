@@ -90,6 +90,11 @@ body{
   transition: all 1s;
   transform: translateY(150px);
 }
+.box_default {
+  opacity: 0;
+  transition: all 1s;
+  transform: translateY(150px);
+}
 .flavor-text{
   font-size: 76px;
 }
