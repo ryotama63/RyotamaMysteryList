@@ -1,0 +1,24 @@
+<html>
+<head>
+<!-- アノテーション -->
+<title>謎解き一覧</title>
+
+<!-- 共通css include -->
+<!-- block=common__css (d) -->
+<link rel="stylesheet" href="../design/smart.css" type="text/css" media="all">
+<script src="../design/smart.js"></script>
+</head>
+<body>
+<header class="header">
+  <div class="header__inner">
+    <h1 class="header__logo">アイテム謎2</h1>
+  </div>
+</header>
+<main>
+  <div class="boxes inner">
+    <div class="box"><img src="../image/アイテム謎2ビジュアル.png" width="960"></div>
+    <div class="box">アイテムを置いて謎を成立させ、解答せよ！</div>
+  </div>
+</main>
+
+</body>
