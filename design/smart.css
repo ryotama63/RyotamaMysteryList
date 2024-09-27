@@ -24,7 +24,7 @@ body{
   padding: 0 20px;
 }
 .header__logo{
-  font-size: 40px;
+  font-size: 68px;
   color: #fff;
   text-transform: uppercase;
 }
@@ -96,7 +96,7 @@ body{
   transform: translateY(150px);
 }
 .flavor-text{
-  font-size: 76px;
+  font-size: 68px;
 }
 .is-active {
   /*要素を表示させる*/
