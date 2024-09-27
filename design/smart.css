@@ -9,6 +9,9 @@ body{
   margin-left: auto;
   padding: 0 20px;
 }
+.label{
+  font-size: 28px;
+}
 .header{
   width: 100%;
   height: 50px;
@@ -85,7 +88,6 @@ body{
   margin-top: 100px;
 }
 .box {
-  background-color: #dedede;
   opacity: 0;
   visibility: hidden;
   transition: all 1s;
