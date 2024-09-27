@@ -10,7 +10,7 @@ body{
   padding: 0 20px;
 }
 .label{
-  font-size: 28px;
+  font-size: 84px;
 }
 .header{
   width: 100%;
@@ -27,7 +27,7 @@ body{
   padding: 0 20px;
 }
 .header__logo{
-  font-size: 20px;
+  font-size: 40px;
   color: #fff;
   text-transform: uppercase;
 }
@@ -40,7 +40,7 @@ body{
   position: relative;
 }
 .mainView p{
-  font-size: 28px;
+  font-size: 84px;
   font-weight: bold;
 }
 .scrollDown{
