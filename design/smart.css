@@ -9,9 +9,6 @@ body{
   margin-left: auto;
   padding: 0 20px;
 }
-.label{
-  font-size: 84px;
-}
 .header{
   width: 100%;
   height: 50px;
@@ -92,6 +89,9 @@ body{
   visibility: hidden;
   transition: all 1s;
   transform: translateY(150px);
+}
+.flavor-text{
+  font-size: 84px;
 }
 .is-active {
   /*要素を表示させる*/
