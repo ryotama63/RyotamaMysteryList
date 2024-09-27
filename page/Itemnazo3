@@ -1,0 +1,26 @@
+<html>
+<head>
+<!-- アノテーション -->
+<title>アイテム謎3</title>
+
+<!-- 共通css include -->
+<!-- block=common__css (d) -->
+<link rel="stylesheet" href="../design/smart.css" type="text/css" media="all">
+<script src="../design/smart.js"></script>
+</head>
+<body>
+<header class="header">
+  <div class="header__inner">
+    <h1 class="header__logo">アイテム謎3</h1>
+  </div>
+</header>
+<main>
+  <div class="boxes inner">
+    <div class="box"><img src="../image/アイテム謎3ビジュアル.png" width="960"></div>
+    <div class="box"><label class="flavor-text">アイテムを置いて謎を成立させ、</br>解答せよ！</label></div>
+    <div class="box"><img src="../image/アイテム謎_公演情報.png" width="960"></div>
+    <div class="box"><img src="../image/アイテム謎3ランキング.png" width="960"></div>
+  </div>
+</main>
+
+</body>
