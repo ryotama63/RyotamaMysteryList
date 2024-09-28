@@ -233,7 +233,7 @@ body{
 /* Navbar Text */
 .navtext {
   position: absolute;
-  text-transform: uppercase;
+  text-transform: none;
   color: #ddd;
   letter-spacing: 4px;
   font-size: 60px;
