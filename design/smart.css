@@ -252,3 +252,6 @@ body{
 .move-page .page-icon{
   width: 80px;
 }
+.move-page .page-icon .no-page{
+  opacity: 0.2;
+}
