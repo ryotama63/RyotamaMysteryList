@@ -2,6 +2,10 @@ body{
   color: #333;
   background-color: #fff;
 }
+/* Navbar & Navmenu color */
+:root {
+  --background-navbar: rgba(55, 55, 55, 0.98);
+}
 .inner{
   max-width: 960px;
   width: 100%;
@@ -9,15 +13,24 @@ body{
   margin-left: auto;
   padding: 0 20px;
 }
-/* Navbar & Navmenu color */
-:root {
-  --background-navbar: rgba(55, 55, 55, 0.98);
-}
-
-.header {
+.header{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
   background: var(--background-navbar);
   position: fixed;
-  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+}
+.header__inner{
+  padding: 0 20px;
+}
+.header__logo{
+  font-size: ;
+  color: #fff;
+  text-transform: uppercase;
 }
 .mainView{
   height: calc(100vh - 50px);
