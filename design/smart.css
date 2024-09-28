@@ -237,7 +237,7 @@ body{
   display: flex;
 }
 .move-page .before{
-  left: 0; /* 右寄せ */
+  left: 0; /* 左寄せ */
 }
 .move-page .home{
 }
