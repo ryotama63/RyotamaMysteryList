@@ -172,7 +172,7 @@ body{
   background: #ddd;
   display: block;
   height: 3px;
-  width: 26px;
+  width: 38px;
   position: relative;
   transition: 0.3192s cubic-bezier(0.04, 0.04, 0.12, 0.96) 0.1008s;
 }
@@ -189,11 +189,11 @@ body{
 }
 
 .navicon:before {
-  top: 9px;
+  top: 15px;
 }
 
 .navicon:after {
-  bottom: 9px;
+  bottom: 15px;
 }
 
 /* Hamburger Menu Animation Start */
