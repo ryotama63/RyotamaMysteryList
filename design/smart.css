@@ -97,6 +97,9 @@ body{
 .flavor-text{
   font-size: 68px;
 }
+.visual{
+  width: 640px;
+}
 .is-active {
   /*要素を表示させる*/
   opacity: 1;
