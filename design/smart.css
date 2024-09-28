@@ -239,8 +239,8 @@ body{
   align-items: left;
 }
 .move-page .home{
-  align-items: center;
+  margin: 0 auto;
 }
 .move-page .after{
-  align-items: right;
+  margin: 0 0 0 auto;
 }
