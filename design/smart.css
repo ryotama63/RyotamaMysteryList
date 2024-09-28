@@ -237,7 +237,7 @@ body{
   display: flex;
   justify-content: center; /* 子要素を中央揃え */
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .move-page .before{
   position: absolute;
