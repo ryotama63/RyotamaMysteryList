@@ -249,3 +249,6 @@ body{
   position: absolute;
   right: 0; /* 右寄せ */
 }
+.move-page .page-icon{
+  width: 160px;
+}
