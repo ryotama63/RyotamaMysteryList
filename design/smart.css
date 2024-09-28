@@ -234,13 +234,13 @@ body{
 }
 .move-page{
   font-size: 39px;
+  display: flex;
 }
 .move-page .before{
-  float: left;
+  left: 0; /* 右寄せ */
 }
 .move-page .home{
-  float: center;
 }
 .move-page .after{
-  float: right;
+  right: 0; /* 右寄せ */
 }
