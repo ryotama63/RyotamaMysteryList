@@ -37,7 +37,7 @@ body{
   position: relative;
 }
 .mainView p{
-  font-size: 68px;
+  font-size: 52px;
   font-weight: bold;
 }
 .scrollDown{
@@ -91,7 +91,7 @@ body{
   transform: translateY(150px);
 }
 .flavor-text{
-  font-size: 60px;
+  font-size: 52px;
 }
 .visual{
   width: 800px;
@@ -230,5 +230,5 @@ body{
   text-transform: none;
   color: #ddd;
   letter-spacing: 4px;
-  font-size: 60px;
+  font-size: 52px;
 }
