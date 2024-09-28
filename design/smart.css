@@ -235,12 +235,16 @@ body{
 .move-page{
   font-size: 39px;
   display: flex;
+  justify-content: center; /* 子要素を中央揃え */
+  position: relative;
 }
 .move-page .before{
+  position: absolute;
   left: 0; /* 左寄せ */
 }
 .move-page .home{
 }
 .move-page .after{
+  position: absolute;
   right: 0; /* 右寄せ */
 }
