@@ -236,11 +236,11 @@ body{
   font-size: 52px;
 }
 .move-page .before{
-  align-items: left;
+  text-align: left;
 }
 .move-page .home{
-  margin: 0 auto;
+  text-align: center;
 }
 .move-page .after{
-  margin: 0 0 0 auto;
+  text-align: right;
 }
