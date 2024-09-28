@@ -18,7 +18,6 @@ body{
   background: var(--background-navbar);
   position: fixed;
   width: 100%;
-  height: 52px;
 }
 .mainView{
   height: calc(100vh - 50px);
