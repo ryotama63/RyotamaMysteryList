@@ -28,11 +28,6 @@ body{
 .header__inner{
   padding: 0 20px;
 }
-.header__logo{
-  font-size: ;
-  color: #fff;
-  text-transform: none;
-}
 .mainView{
   height: calc(100vh - 50px);
   display: flex;
@@ -96,7 +91,7 @@ body{
   transform: translateY(150px);
 }
 .flavor-text{
-  font-size: 68px;
+  font-size: 60px;
 }
 .visual{
   width: 800px;
