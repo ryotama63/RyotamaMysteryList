@@ -164,7 +164,7 @@ body{
   display: inline-block;
   position: relative;
   cursor: pointer;
-  padding: 24px 14px;
+  padding: 24px 30px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
