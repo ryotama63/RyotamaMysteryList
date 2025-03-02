@@ -93,6 +93,9 @@ body{
 .flavor-text{
   font-size: 52px;
 }
+.caution-text{
+  font-size: 40px;
+}
 .visual{
   width: 800px;
 }
